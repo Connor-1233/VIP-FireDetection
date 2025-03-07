@@ -1,0 +1,7 @@
+numpy
+opencv
+pyyaml
+torch
+torchvision
+Pillow
+timm
