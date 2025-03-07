@@ -1,0 +1,14 @@
+name: fire_detection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - opencv
+  - numpy
+  - timm
+  - torch
